@@ -62,7 +62,7 @@ int ViewLoans(const Account customers[], int customerCount, string accountNumber
 int SubmitLoanRequest(Loan L, Queue* QueueLoanRequest) {
     Node_Q* appliedloan = CreateNode_Q(L);
     if (!appliedloan) {
-        cout << "Memory error — please contact your agency\n";
+        cout << "Memory error â€” please contact your agency\n";
         return 0;
     }
     if (IsEmpty_Q(*QueueLoanRequest)) {
