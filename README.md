@@ -47,5 +47,5 @@ Through this project, I improved my understanding of:
 ![Employee Menu](images/employee-menu.png)
 
 ## Author
-Zeyneb Ben Hamouda , Sirine Kefif , Hiba Yahyaoui , Med Aziz Ahmed
+Zeyneb Ben Hamouda , Sirine Kefif , Hiba Yahyaoui , Med Aziz Ahmed 
 First-year Digital Engineering Student – HIDE
