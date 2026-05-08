@@ -41,10 +41,10 @@ Through this project, I improved my understanding of:
 ## Screenshots
 
 ### Main Menu
-![Main Menu](images/Main menu.png)
+![Main Menu](images/main-menu.png)
 
 ### Employee Menu
-![Employee Menu](images/Employee menu.png)
+![Employee Menu](images/employee-menu.png)
 
 ## Author
 Zeyneb Ben Hamouda 
