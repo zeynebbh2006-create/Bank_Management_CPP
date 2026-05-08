@@ -38,6 +38,14 @@ Through this project, I improved my understanding of:
 - Add database integration
 - Enhance security features
 
+## Screenshots
+
+### Main Menu
+![Main Menu](images/Main-menu.png)
+
+### Employee Menu
+![Employee Menu](images/Employee-menu.png)
+
 ## Author
 Zeyneb Ben Hamouda 
 Sirine Kefif 
